@@ -7,6 +7,6 @@ fpdf
 coverage
 pytest-mock
 pytest
-python-telegram-bot-calendar
+python-telegram-bot-calendar 
 mock
 tabulate
