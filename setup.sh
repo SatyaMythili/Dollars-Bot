@@ -2,7 +2,7 @@ pip3 install -r requirements.txt
 
 api_token=$(grep "api_token" user.properties|cut -d'=' -f2)
 
-flag = "old"
+flag = "old"  
 
 echo "Checking for API Token..."
 if [ -z "$api_token" ]
